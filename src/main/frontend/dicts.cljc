@@ -323,6 +323,7 @@
         :plugin/marketplace-tips "If the plugin doesn't work correctly when first installed, try to restart Logseq."
         :plugin/up-to-date "It's up to date"
         :plugin/custom-js-alert "Found the custom.js file, is it allowed to execute? (If you don't understand the content of this file, it is recommended not to allow execution, which has certain security risks.)"
+        :plugin/install-from-file "Install from plugins.edn"
 
         :pdf/copy-ref "Copy ref"
         :pdf/copy-text "Copy text"
@@ -2724,7 +2725,7 @@
            :settings-page/edit-export-css "Editar export.css"
            :settings-page/enable-flashcards "Flashcards"
            :settings-page/export-theme "Exportar Tema"
-           
+
            :discourse-title "Nosso fórum!"
            :importing "Importando"
            :asset/copy "Copiar imagem"
@@ -3067,7 +3068,7 @@
         :settings-page/export-theme "Exportar tema"
         :settings-page/network-proxy "Proxy de rede"
         :settings-page/plugin-system "Sistema de plugins"
-        
+
         :discourse-title "Nosso fórum!"
         :importing "Importando"
         :asset/copy "Copiar imagem"
